@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "tanuja",
+      "salary": "52000",
+      "age": "23",
+      "gender": "fe"
+    },
+    {
+      "id": "2",
+      "name": "anisha",
+      "salary": "56325",
+      "age": "24",
+      "gender": "female"
+    },
+    {
+      "id": "3",
+      "name": "rohit",
+      "salary": "85236",
+      "age": "25",
+      "gender": "male"
+    },
+    {
+      "id": "4",
+      "name": "Amit",
+      "salary": "45215",
+      "age": "21",
+      "gender": "male"
+    }
+  ]
+}
